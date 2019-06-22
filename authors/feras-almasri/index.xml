@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feras Almasri on Academic</title>
+    <link>/authors/feras-almasri/</link>
+    <description>Recent content in Feras Almasri on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/feras-almasri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep-shift phase contrast cell detection and tracking</title>
+      <link>/publication/debeir-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/debeir-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Sensor Fusion In Single Thermal image Super-Resolution</title>
+      <link>/publication/almasri-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/almasri-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB Guided Thermal Super-Resolution Enhancement</title>
+      <link>/publication/almasri-2018-rgb/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/almasri-2018-rgb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
