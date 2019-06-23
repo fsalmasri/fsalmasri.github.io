@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>/authors/admin/</link>
+    <link>https://falmasri.com/authors/admin/</link>
     <description>Recent content on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Feras Almasri, 2019</copyright>
     
-	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://falmasri.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://falmasri.com/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://falmasri.com/authors/admin/</guid>
       <description>&lt;p&gt;XXX&lt;/p&gt;
 </description>
     </item>
